@@ -1,4 +1,4 @@
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
+![](https://img.shields.io/badge/-Python-blue)
 <!-- ### Yes everyone!! I am Sulaiman Kagumire 👋
 
 https://img.shields.io/badge/-Python-blue
