@@ -7,7 +7,7 @@
 <!-- <h3 align="center">
 Yes!! Hi there, I'm Sulaiman Kagumire 
 <!--   <a href="https://www.yushi.dev/" target="_blank" rel="noreferrer">Yu</a> 👋 -->
-</h3>
+<!-- </h3>
 
 <h2 align="center">
 I'm a Full-Stack Web Developer 💻, Photographer 📸, and Designer 🎨!
@@ -64,7 +64,7 @@ I love the entire process of developing creative websites. I love the challenge 
 ![](https://img.shields.io/badge/Tools-Netlify-informational?style=flat&logo=netlify&color=00C7B7)
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&color=F05032)
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)
- -->
+ --> -->
 <!-- ## 📝 Latest Blog Posts
 
 - [Deploy Rails API Backend to Heroku and React Frontend to Netlify](https://yushi95.medium.com/deploy-rails-api-backend-to-heroku-and-react-frontend-to-netlify-b515239d5022)
