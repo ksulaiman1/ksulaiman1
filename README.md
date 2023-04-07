@@ -1,10 +1,28 @@
-### Yes! Hello there, I am Sulaiman Kagumire 👋
+### Yes! Hello there, Sulaiman Kagumire here👋
 *sulaiman.kagumire@gmail.com*
 
 
-I am an MS. Computer Science Finalist from Makerere University, Kampala Uganda, currently working as a Machine Learning Researcher. Passionate about utilizing Data Science and Machine Learning to make our planet a happpy hunting ground.
+An MS. Computer Science Finalist from Makerere University, Kampala Uganda, currently working as a Machine Learning Researcher. Passionate about utilizing Data Science and Machine Learning to make our planet a happpy hunting ground.
+
+
+## 💼 Skills and Technologies
 
 <!-- ![](https://github.com/ksulaiman1/ksulaiman1/blob/main/svg/python.svg) -->
+<div> 
+   <img src="https://github.com/ksulaiman1/ksulaiman1/blob/main/svg/python.svg" title="Javascript" alt="pythorn"/>&nbsp;
+  <img src="https://github.com/ksulaiman1/ksulaiman1/blob/main/svg/pytorch.png" title="Javascript" alt="pytorch" width="80" height="32" />&nbsp;
+  <img src="https://github.com/ksulaiman1/ksulaiman1/blob/main/svg/tensorflow.svg" title="tensorflow" alt="tensorflow" width="90" height="32" />&nbsp;
+  
+</div>
+
+
+<div>
+  <img src="https://github.com/ksulaiman1/ksulaiman1/blob/main/svg/javascript.svg" title="Javascript" alt="Java"/>&nbsp;
+  <img src="https://github.com/ksulaiman1/ksulaiman1/blob/main/svg/html.svg" title="Java" alt="html" />&nbsp;
+  <img src="https://github.com/ksulaiman1/ksulaiman1/blob/main/svg/css.svg" title="Java" alt="css" width="80" height="30"/>&nbsp;
+</div>
+  
+ 
 
 
 <!-- ### Yes everyone!! I am Sulaiman Kagumire 👋
