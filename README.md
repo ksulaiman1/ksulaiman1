@@ -1,5 +1,6 @@
 ![](https://img.shields.io/badge/-Python-blue)
 ![](https://github.com/sudimuk2017/sudimuk2017/blob/main/Assets/python.svg)
+![](https://github.com/ksulaiman1/ksulaiman1/blob/main/svg/python.svg)
 <!-- ### Yes everyone!! I am Sulaiman Kagumire 👋
 
 https://img.shields.io/badge/-Python-blue
