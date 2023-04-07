@@ -1,5 +1,10 @@
 ### Yes! Hello there, I am Sulaiman Kagumire 👋
-![](https://github.com/ksulaiman1/ksulaiman1/blob/main/svg/python.svg)
+*sulaiman.kagumire@gmail.com*
+
+
+I am an MS. Computer Science Finalist from Makerere University, Kampala Uganda, currently working as a Machine Learning Researcher. Passionate about utilizing Data Science and Machine Learning to make our planet a happpy hunting ground.
+
+<!-- ![](https://github.com/ksulaiman1/ksulaiman1/blob/main/svg/python.svg) -->
 
 
 <!-- ### Yes everyone!! I am Sulaiman Kagumire 👋
