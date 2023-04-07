@@ -1,6 +1,7 @@
-![](https://img.shields.io/badge/-Python-blue)
-![](https://github.com/sudimuk2017/sudimuk2017/blob/main/Assets/python.svg)
+### Yes! Hello there, I am Sulaiman Kagumire 👋
 ![](https://github.com/ksulaiman1/ksulaiman1/blob/main/svg/python.svg)
+
+
 <!-- ### Yes everyone!! I am Sulaiman Kagumire 👋
 
 https://img.shields.io/badge/-Python-blue
@@ -68,7 +69,7 @@ I love the entire process of developing creative websites. I love the challenge 
 ![](https://img.shields.io/badge/Tools-Netlify-informational?style=flat&logo=netlify&color=00C7B7)
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&color=F05032)
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)
- --> -->
+ --> 
 <!-- ## 📝 Latest Blog Posts
 
 - [Deploy Rails API Backend to Heroku and React Frontend to Netlify](https://yushi95.medium.com/deploy-rails-api-backend-to-heroku-and-react-frontend-to-netlify-b515239d5022)
@@ -87,15 +88,4 @@ I love the entire process of developing creative websites. I love the challenge 
 <!--
 **ksulaiman1/ksulaiman1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
- -->
