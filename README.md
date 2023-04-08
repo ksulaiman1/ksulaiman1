@@ -8,11 +8,19 @@ I am an MS Computer Science Finalist from Makerere University, Kampala Uganda, c
 
 <div> 
    <img src="https://github.com/ksulaiman1/ksulaiman1/blob/main/svg/python.svg" title="Javascript" alt="pythorn"/>&nbsp;
-   <img src="https://github.com/ksulaiman1/ksulaiman1/blob/main/svg/pytorch.png" title="Javascript" alt="pytorch" width="80" height="32" />&nbsp;
+   <img src="https://github.com/ksulaiman1/ksulaiman1/blob/main/svg/pytorch.png" title="Javascript" alt="pytorch" width="80" height="30" />&nbsp;
    <img src="https://github.com/ksulaiman1/ksulaiman1/blob/main/svg/tensorflow.svg" title="tensorflow" alt="tensorflow" width="90" height="32" />&nbsp; 
    <img src="https://github.com/ksulaiman1/ksulaiman1/blob/main/svg/keras.svg" title="tensorflow" alt="tensorflow" width="90" height="32" />&nbsp;
    <img src="https://img.shields.io/badge/S-Scikit--Learn-orange" title="scikitlearn" alt="tensorflow" width="100" height="32" />&nbsp;
+  </div>
+  <br>
+  <div>
    <img src="https://github.com/ksulaiman1/ksulaiman1/blob/main/svg/numpy.png" title="numpy" alt="tensorflow" width="90" height="32" />&nbsp;
+   <img src="https://github.com/ksulaiman1/ksulaiman1/blob/main/svg/mat.png" title="matplotlib" alt="tensorflow" width="90" height="32" />&nbsp;
+   <img src="https://github.com/ksulaiman1/ksulaiman1/blob/main/svg/pandas.png" title="pandas" alt="tensorflow" width="90" height="32" />&nbsp;
+   <img src="https://github.com/ksulaiman1/ksulaiman1/blob/main/svg/d3.png" title="d3" alt="tensorflow" width="50" height="32" />&nbsp;
+   <img src="https://github.com/ksulaiman1/ksulaiman1/blob/main/svg/sea.png" title="d3" alt="tensorflow" width="80" height="32" />&nbsp;
+   <img src="https://github.com/ksulaiman1/ksulaiman1/blob/main/svg/jax.png" title="d3" alt="tensorflow" width="80" height="32" />&nbsp;
 
 </div>
   <br>
@@ -20,7 +28,17 @@ I am an MS Computer Science Finalist from Makerere University, Kampala Uganda, c
 <div>
   <img src="https://github.com/ksulaiman1/ksulaiman1/blob/main/svg/javascript.svg" title="Javascript" alt="Java"/>&nbsp;
   <img src="https://github.com/ksulaiman1/ksulaiman1/blob/main/svg/html.svg" title="Java" alt="html" />&nbsp;
-  <img src="https://github.com/ksulaiman1/ksulaiman1/blob/main/svg/css.svg" title="Java" alt="css" width="80" height="30"/>&nbsp;
+  <img src="https://github.com/ksulaiman1/ksulaiman1/blob/main/svg/css.svg" title="Java" alt="css" width="80" height="32"/>&nbsp;
+   <img src="https://github.com/ksulaiman1/ksulaiman1/blob/main/svg/boot.png" title="d3" alt="tensorflow" width="80" height="32" />&nbsp;
+<!--    <img src="https://github.com/ksulaiman1/ksulaiman1/blob/main/svg/sql.png" title="d3" alt="tensorflow" width="50" height="32" />&nbsp; -->
+</div>
+  <br>
+
+<div>
+   <img src="https://github.com/ksulaiman1/ksulaiman1/blob/main/svg/django.png" title="d3" alt="tensorflow" width="60" height="32" />&nbsp;
+   <img src="https://github.com/ksulaiman1/ksulaiman1/blob/main/svg/mysql.png" title="d3" alt="tensorflow" width="60" height="32" />&nbsp;
+   <img src="https://github.com/ksulaiman1/ksulaiman1/blob/main/svg/flask.png" title="d3" alt="tensorflow" width="70" height="32" />&nbsp;
+   
 </div>
   
  
