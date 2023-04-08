@@ -52,7 +52,7 @@ I am an MS Computer Science Finalist from Makerere University, Kampala Uganda, c
   <img style="min-height: 190px; style="width: 53vw" src="https://github-readme-stats.vercel.app/api?username=ksulaiman1&show_icons=true&line_height=27&count_private=true&&theme=radical" alt="GitHub Stats" />
 </a>
 
-### Contact Me
+### Connect With Me
 |  <a href="https://github.com/ksulaiman"></a> |
 |:---------------------------------------------------------------------------------------------------------------------------------------: |
 |📞 *+256 787909042*|
