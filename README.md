@@ -4,44 +4,60 @@
 I am an MS Computer Science Finalist from Makerere University, Kampala Uganda, currently working as a Machine Learning Researcher. My passion lies in utilizing data science and machine learning to solve real-world problems and create positive change.
 
 
-## 💼 Skills and Technologies
+## 💼 Languages, Tools and skills
 
 <div> 
-   <img src="https://github.com/ksulaiman1/ksulaiman1/blob/main/svg/python.svg" title="Javascript" alt="pythorn"/>&nbsp;
+   <img src="https://github.com/ksulaiman1/ksulaiman1/blob/main/svg/python.png" title="Javascript" alt="pythorn" width="80" height="30"/>&nbsp;
    <img src="https://github.com/ksulaiman1/ksulaiman1/blob/main/svg/pytorch.png" title="Javascript" alt="pytorch" width="80" height="30" />&nbsp;
    <img src="https://github.com/ksulaiman1/ksulaiman1/blob/main/svg/tensorflow.svg" title="tensorflow" alt="tensorflow" width="90" height="32" />&nbsp; 
    <img src="https://github.com/ksulaiman1/ksulaiman1/blob/main/svg/keras.svg" title="tensorflow" alt="tensorflow" width="90" height="32" />&nbsp;
    <img src="https://img.shields.io/badge/S-Scikit--Learn-orange" title="scikitlearn" alt="tensorflow" width="100" height="32" />&nbsp;
-  </div>
-  <br>
-  <div>
    <img src="https://github.com/ksulaiman1/ksulaiman1/blob/main/svg/numpy.png" title="numpy" alt="tensorflow" width="90" height="32" />&nbsp;
    <img src="https://github.com/ksulaiman1/ksulaiman1/blob/main/svg/mat.png" title="matplotlib" alt="tensorflow" width="90" height="32" />&nbsp;
    <img src="https://github.com/ksulaiman1/ksulaiman1/blob/main/svg/pandas.png" title="pandas" alt="tensorflow" width="90" height="32" />&nbsp;
    <img src="https://github.com/ksulaiman1/ksulaiman1/blob/main/svg/d3.png" title="d3" alt="tensorflow" width="50" height="32" />&nbsp;
    <img src="https://github.com/ksulaiman1/ksulaiman1/blob/main/svg/sea.png" title="d3" alt="tensorflow" width="80" height="32" />&nbsp;
    <img src="https://github.com/ksulaiman1/ksulaiman1/blob/main/svg/jax.png" title="d3" alt="tensorflow" width="80" height="32" />&nbsp;
-
-</div>
-  <br>
-
-<div>
   <img src="https://github.com/ksulaiman1/ksulaiman1/blob/main/svg/javascript.svg" title="Javascript" alt="Java"/>&nbsp;
   <img src="https://github.com/ksulaiman1/ksulaiman1/blob/main/svg/html.svg" title="Java" alt="html" />&nbsp;
   <img src="https://github.com/ksulaiman1/ksulaiman1/blob/main/svg/css.svg" title="Java" alt="css" width="80" height="32"/>&nbsp;
    <img src="https://github.com/ksulaiman1/ksulaiman1/blob/main/svg/boot.png" title="d3" alt="tensorflow" width="80" height="32" />&nbsp;
 <!--    <img src="https://github.com/ksulaiman1/ksulaiman1/blob/main/svg/sql.png" title="d3" alt="tensorflow" width="50" height="32" />&nbsp; -->
-</div>
-  <br>
-
-<div>
    <img src="https://github.com/ksulaiman1/ksulaiman1/blob/main/svg/django.png" title="d3" alt="tensorflow" width="60" height="32" />&nbsp;
    <img src="https://github.com/ksulaiman1/ksulaiman1/blob/main/svg/mysql.png" title="d3" alt="tensorflow" width="60" height="32" />&nbsp;
    <img src="https://github.com/ksulaiman1/ksulaiman1/blob/main/svg/flask.png" title="d3" alt="tensorflow" width="70" height="32" />&nbsp;
+   <img src="https://github.com/ksulaiman1/ksulaiman1/blob/main/svg/gcp.png" title="d3" alt="tensorflow" width="130" height="32" />&nbsp;
+  <img src="https://github.com/ksulaiman1/ksulaiman1/blob/main/svg/cpp.png" title="d3" alt="tensorflow" width="40" height="32" />&nbsp; 
    
 </div>
-  
- 
+   <br>
+
+<div>
+   <img src="https://github.com/ksulaiman1/ksulaiman1/blob/main/svg/dl.svg" title="d3" alt="tensorflow" height="25"  />&nbsp;
+  <img src="https://github.com/ksulaiman1/ksulaiman1/blob/main/svg/nlp.svg" title="d3" alt="tensorflow" height="25" />&nbsp; 
+  <img src="https://github.com/ksulaiman1/ksulaiman1/blob/main/svg/cv.svg" title="d3" alt="tensorflow" height="25"  />&nbsp;
+  <img src="https://github.com/ksulaiman1/ksulaiman1/blob/main/svg/eda.svg" title="d3" alt="tensorflow" height="25"  />&nbsp; 
+  <img src="https://github.com/ksulaiman1/ksulaiman1/blob/main/svg/nw.svg" title="d3" alt="tensorflow" height="25"  />&nbsp; 
+  <img src="https://github.com/ksulaiman1/ksulaiman1/blob/main/svg/dm.svg" title="d3" alt="tensorflow" height="25"  />&nbsp;
+  <img src="https://github.com/ksulaiman1/ksulaiman1/blob/main/svg/modeling.svg" title="d3" alt="tensorflow" height="25"  />&nbsp;
+  <img src="https://github.com/ksulaiman1/ksulaiman1/blob/main/svg/cc.svg" title="d3" alt="tensorflow" height="25"  />&nbsp;
+  <img src="https://github.com/ksulaiman1/ksulaiman1/blob/main/svg/dv.svg" title="d3" alt="tensorflow" height="25"  />&nbsp;
+  <img src="https://github.com/ksulaiman1/ksulaiman1/blob/main/svg/dw.svg" title="d3" alt="tensorflow" height="25"  />&nbsp;
+  <img src="https://github.com/ksulaiman1/ksulaiman1/blob/main/svg/db.svg" title="d3" alt="tensorflow" height="25"  />&nbsp;
+  <img src="https://github.com/ksulaiman1/ksulaiman1/blob/main/svg/mst.svg" title="d3" alt="tensorflow" height="25"  />&nbsp;   
+</div>
+
+<hr/>
+<a href="https://github.com/ksulaiman1/ksulaiman1">
+  <img style="min-height: 190px; style="width: 53vw" src="https://github-readme-stats.vercel.app/api?username=ksulaiman1&show_icons=true&line_height=27&count_private=true&&theme=radical" alt="GitHub Stats" />
+</a>
+
+### Contact Me
+|  <a href="https://github.com/ksulaiman"></a> |
+|:---------------------------------------------------------------------------------------------------------------------------------------: |
+|📞 *+256 787909042*|
+|✉️ *sulaiman.kagumire@gmail.com \| kagumire1840@gmail.com*|
+ <a href="https://www.linkedin.com/in/sulaiman-kagumire-3b2a97135/"><img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="32px" height="32px"></a> &nbsp; &nbsp; <a href="https://github.com/ksulaiman1"><img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="32px" height="32px"></a>  |
 
 
 <!-- ### Yes everyone!! I am Sulaiman Kagumire 👋
