@@ -1,20 +1,21 @@
 ### Yes! Hello there, Sulaiman Kagumire here👋
 *sulaiman.kagumire@gmail.com*
 
-
-An MS. Computer Science Finalist from Makerere University, Kampala Uganda, currently working as a Machine Learning Researcher. Passionate about utilizing Data Science and Machine Learning to make our planet a happpy hunting ground.
+I am an MS Computer Science Finalist from Makerere University, Kampala Uganda, currently working as a Machine Learning Researcher. My passion lies in utilizing data science and machine learning to solve real-world problems and create positive change.
 
 
 ## 💼 Skills and Technologies
 
-<!-- ![](https://github.com/ksulaiman1/ksulaiman1/blob/main/svg/python.svg) -->
 <div> 
    <img src="https://github.com/ksulaiman1/ksulaiman1/blob/main/svg/python.svg" title="Javascript" alt="pythorn"/>&nbsp;
-  <img src="https://github.com/ksulaiman1/ksulaiman1/blob/main/svg/pytorch.png" title="Javascript" alt="pytorch" width="80" height="32" />&nbsp;
-  <img src="https://github.com/ksulaiman1/ksulaiman1/blob/main/svg/tensorflow.svg" title="tensorflow" alt="tensorflow" width="90" height="32" />&nbsp;
-  
-</div>
+   <img src="https://github.com/ksulaiman1/ksulaiman1/blob/main/svg/pytorch.png" title="Javascript" alt="pytorch" width="80" height="32" />&nbsp;
+   <img src="https://github.com/ksulaiman1/ksulaiman1/blob/main/svg/tensorflow.svg" title="tensorflow" alt="tensorflow" width="90" height="32" />&nbsp; 
+   <img src="https://github.com/ksulaiman1/ksulaiman1/blob/main/svg/keras.svg" title="tensorflow" alt="tensorflow" width="90" height="32" />&nbsp;
+   <img src="https://img.shields.io/badge/S-Scikit--Learn-orange" title="scikitlearn" alt="tensorflow" width="100" height="32" />&nbsp;
+   <img src="https://github.com/ksulaiman1/ksulaiman1/blob/main/svg/numpy.png" title="numpy" alt="tensorflow" width="90" height="32" />&nbsp;
 
+</div>
+  <br>
 
 <div>
   <img src="https://github.com/ksulaiman1/ksulaiman1/blob/main/svg/javascript.svg" title="Javascript" alt="Java"/>&nbsp;
