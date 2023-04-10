@@ -49,7 +49,7 @@ I am an MS Computer Science Finalist from Makerere University, Kampala Uganda, c
 
 <hr/>
 <a href="https://github.com/ksulaiman1/sulaiman-kagumire">
-  <img style="min-height: 190px; style="width: 53vw" src="https://github-readme-stats.vercel.app/api?username=ksulaiman1&show_icons=true&line_height=27&count_private=true&&theme=radical" alt="GitHub Stats" />
+  <img style="min-height: 190px; style="width: 53vw" src="https://github-readme-stats.vercel.app/api?username=sulaiman-kagumire&show_icons=true&line_height=27&count_private=true&&theme=radical" alt="GitHub Stats" />
 </a>
 
 ### Connect With Me
