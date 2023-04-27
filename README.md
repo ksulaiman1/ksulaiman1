@@ -57,7 +57,7 @@ I am an MS Computer Science Finalist from Makerere University, Kampala Uganda, c
 |:---------------------------------------------------------------------------------------------------------------------------------------: |
 |📞 *+256 787909042*|
 |✉️ *sulaiman.kagumire@gmail.com \| kagumire1840@gmail.com*|
- <a href="https://www.linkedin.com/in/sulaiman-kagumire-3b2a97135/"><img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="32px" height="32px"></a> &nbsp; &nbsp; <a href="https://github.com/ulaiman-kagumire"><img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="32px" height="32px"></a>  |
+ <a href="https://www.linkedin.com/in/sulaiman-kagumire-3b2a97135/"><img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="32px" height="32px"></a> &nbsp; &nbsp; <a href="https://github.com/sulaiman-kagumire"><img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="32px" height="32px"></a>  |
 
 
 <!-- ### Yes everyone!! I am Sulaiman Kagumire 👋
