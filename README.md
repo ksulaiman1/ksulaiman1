@@ -7,8 +7,8 @@ I am an MS Computer Science Finalist from Makerere University, Kampala Uganda, c
 ## 💼 Languages, Tools and skills
 
 <div> 
-   <img src="https://github.com/kagumire-kagumire/sulaiman-kagumire/blob/main/svg/python.png" title="Javascript" alt="pythorn" width="80" height="30"/>&nbsp;
-   <img src="https://github.com/sulaiman-kagumire/sulaiman-kagumireblob/main/svg/pytorch.png" title="Javascript" alt="pytorch" width="80" height="30" />&nbsp;
+   <img src="https://github.com/sulaiman-kagumire/sulaiman-kagumire/blob/main/svg/python.png" title="Javascript" alt="pythorn" width="80" height="30"/>&nbsp;
+   <img src="https://github.com/sulaiman-kagumire/sulaiman-kagumire/blob/main/svg/pytorch.png" title="Javascript" alt="pytorch" width="80" height="30" />&nbsp;
    <img src="https://github.com/sulaiman-kagumire/sulaiman-kagumire/blob/main/svg/tensorflow.svg" title="tensorflow" alt="tensorflow" width="90" height="32" />&nbsp; 
    <img src="https://github.com/sulaiman-kagumire/sulaiman-kagumire/blob/main/svg/keras.svg" title="tensorflow" alt="tensorflow" width="90" height="32" />&nbsp;
    <img src="https://img.shields.io/badge/S-Scikit--Learn-orange" title="scikitlearn" alt="tensorflow" width="100" height="32" />&nbsp;
@@ -33,18 +33,18 @@ I am an MS Computer Science Finalist from Makerere University, Kampala Uganda, c
    <br>
 
 <div>
-   <img src="https://github.com/ksulaiman1/ksulaiman1/blob/main/svg/dl.svg" title="d3" alt="tensorflow" height="25"  />&nbsp;
-  <img src="https://github.com/ksulaiman1/ksulaiman1/blob/main/svg/nlp.svg" title="d3" alt="tensorflow" height="25" />&nbsp; 
-  <img src="https://github.com/ksulaiman1/ksulaiman1/blob/main/svg/cv.svg" title="d3" alt="tensorflow" height="25"  />&nbsp;
-  <img src="https://github.com/ksulaiman1/ksulaiman1/blob/main/svg/eda.svg" title="d3" alt="tensorflow" height="25"  />&nbsp; 
-  <img src="https://github.com/ksulaiman1/ksulaiman1/blob/main/svg/nw.svg" title="d3" alt="tensorflow" height="25"  />&nbsp; 
-  <img src="https://github.com/ksulaiman1/ksulaiman1/blob/main/svg/dm.svg" title="d3" alt="tensorflow" height="25"  />&nbsp;
-  <img src="https://github.com/ksulaiman1/ksulaiman1/blob/main/svg/modeling.svg" title="d3" alt="tensorflow" height="25"  />&nbsp;
-  <img src="https://github.com/ksulaiman1/ksulaiman1/blob/main/svg/cc.svg" title="d3" alt="tensorflow" height="25"  />&nbsp;
-  <img src="https://github.com/ksulaiman1/ksulaiman1/blob/main/svg/dv.svg" title="d3" alt="tensorflow" height="25"  />&nbsp;
-  <img src="https://github.com/ksulaiman1/ksulaiman1/blob/main/svg/dw.svg" title="d3" alt="tensorflow" height="25"  />&nbsp;
-  <img src="https://github.com/ksulaiman1/ksulaiman1/blob/main/svg/db.svg" title="d3" alt="tensorflow" height="25"  />&nbsp;
-  <img src="https://github.com/ksulaiman1/ksulaiman1/blob/main/svg/mst.svg" title="d3" alt="tensorflow" height="25"  />&nbsp;   
+   <img src="https://github.com/sulaiman-kagumire/sulaiman-kagumire/blob/main/svg/dl.svg" title="d3" alt="tensorflow" height="25"  />&nbsp;
+  <img src="https://github.com/sulaiman-kagumire/sulaiman-kagumire/blob/main/svg/nlp.svg" title="d3" alt="tensorflow" height="25" />&nbsp; 
+  <img src="https://github.com/sulaiman-kagumire/sulaiman-kagumire/blob/main/svg/cv.svg" title="d3" alt="tensorflow" height="25"  />&nbsp;
+  <img src="https://github.com/sulaiman-kagumire/sulaiman-kagumire/blob/main/svg/eda.svg" title="d3" alt="tensorflow" height="25"  />&nbsp; 
+  <img src="https://github.com/sulaiman-kagumire/sulaiman-kagumire/blob/main/svg/nw.svg" title="d3" alt="tensorflow" height="25"  />&nbsp; 
+  <img src="https://github.com/sulaiman-kagumire/sulaiman-kagumire/blob/main/svg/dm.svg" title="d3" alt="tensorflow" height="25"  />&nbsp;
+  <img src="https://github.com/sulaiman-kagumire/sulaiman-kagumire/blob/main/svg/modeling.svg" title="d3" alt="tensorflow" height="25"  />&nbsp;
+  <img src="https://github.com/sulaiman-kagumire/sulaiman-kagumire/blob/main/svg/cc.svg" title="d3" alt="tensorflow" height="25"  />&nbsp;
+  <img src="https://github.com/sulaiman-kagumire/sulaiman-kagumire/blob/main/svg/dv.svg" title="d3" alt="tensorflow" height="25"  />&nbsp;
+  <img src="https://github.com/sulaiman-kagumire/sulaiman-kagumire/blob/main/svg/dw.svg" title="d3" alt="tensorflow" height="25"  />&nbsp;
+  <img src="https://github.com/sulaiman-kagumire/sulaiman-kagumire/blob/main/svg/db.svg" title="d3" alt="tensorflow" height="25"  />&nbsp;
+  <img src="https://github.com/sulaiman-kagumire/sulaiman-kagumire/blob/main/svg/mst.svg" title="d3" alt="tensorflow" height="25"  />&nbsp;   
 </div>
 
 <hr/>
