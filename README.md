@@ -45,7 +45,7 @@ I am a final-year MS Computer Science student at Makerere University, Kampala Ug
   <img src="https://github.com/sulaiman-kagumire/sulaiman-kagumire/blob/main/svg/dw.svg" title="d3" alt="tensorflow" height="25"  />&nbsp;
   <img src="https://github.com/sulaiman-kagumire/sulaiman-kagumire/blob/main/svg/db.svg" title="d3" alt="tensorflow" height="25"  />&nbsp;
   <img src="https://github.com/sulaiman-kagumire/sulaiman-kagumire/blob/main/svg/mst.svg" title="d3" alt="tensorflow" height="25"  />&nbsp; 
-   <img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-Data%20Structures%20%26%20Algorithms-blue" title="d3" alt="tensorflow" height="25"  />&nbsp; 
+   <img src="https://img.shields.io/badge/-Data%20Structures%20%26%20Algorithms-blue" title="d3" alt="tensorflow" height="25"  />&nbsp; 
    
 </div>
 
