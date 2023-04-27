@@ -52,7 +52,7 @@ I am a final-year MS Computer Science student at Makerere University, Kampala Ug
   <img style="min-height: 190px; style="width: 53vw" src="https://github-readme-stats.vercel.app/api?username=sulaiman-kagumire&show_icons=true&line_height=27&count_private=true&&theme=radical" alt="GitHub Stats" />
 </a> -->
 
-[![Sulaiman Kagumire's GitHub stats](https://github-readme-stats.vercel.app/api?username=sulaiman-kagumirecount_private=true&show_icons=true&theme=vision-friendly-dark)](https://github.com/sulaiman-kagumire)
+[![Sulaiman Kagumire's GitHub stats](https://github-readme-stats.vercel.app/api?username=sulaiman-kagumire&count_private=true&show_icons=true&theme=vision-friendly-dark)](https://github.com/sulaiman-kagumire)
 
 ### Connect With Me
 |  <a href="https://github.com/sulaiman-kagumire"></a> |
