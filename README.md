@@ -1,7 +1,7 @@
 ### Yes! Hello there, Sulaiman Kagumire here👋
 *sulaiman.kagumire@gmail.com*
 
-I am an MS Computer Science Finalist from Makerere University, Kampala Uganda, currently working as a Machine Learning Researcher. My passion lies in utilizing data science and machine learning to solve real-world problems and create positive change.
+I am a final-year MS Computer Science student at Makerere University, Kampala Uganda, with a strong interest in using data science and machine learning to tackle real-world problems and drive positive change. Currently working as a Machine Learning Researcher, I am passionate about leveraging my skills to make a meaningful impact.
 
 
 ## 💼 Languages, Tools and skills
