@@ -51,7 +51,9 @@ I am an MS Computer Science Finalist from Makerere University, Kampala Uganda, c
 <a href="https://github.com/sulaiman-kagumire/sulaiman-kagumire">
   <img style="min-height: 190px; style="width: 53vw" src="https://github-readme-stats.vercel.app/api?username=sulaiman-kagumire&show_icons=true&line_height=27&count_private=true&&theme=radical" alt="GitHub Stats" />
 </a>
+
 [![Sulaiman Kagumire's GitHub stats](https://github-readme-stats.vercel.app/api?username=sulaiman-kagumire)](https://github.com/sulaiman-kagumire/github-readme-stats)
+
 ### Connect With Me
 |  <a href="https://github.com/sulaiman-kagumire"></a> |
 |:---------------------------------------------------------------------------------------------------------------------------------------: |
