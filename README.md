@@ -3,7 +3,6 @@
 
 I am a final-year MS Computer Science student at Makerere University, Kampala Uganda, with a strong interest in using data science and machine learning to tackle real-world problems and drive positive change. Currently working as a Machine Learning Researcher, I am passionate about leveraging my skills to make a meaningful impact.
 
-
 ## 💼 Languages, Tools and skills
 
 <div> 
@@ -49,11 +48,6 @@ I am a final-year MS Computer Science student at Makerere University, Kampala Ug
    
 </div>
 
-<!-- <hr/>
-<a href="https://github.com/sulaiman-kagumire/sulaiman-kagumire">
-  <img style="min-height: 190px; style="width: 53vw" src="https://github-readme-stats.vercel.app/api?username=sulaiman-kagumire&show_icons=true&line_height=27&count_private=true&&theme=radical" alt="GitHub Stats" />
-</a> -->
-
 [![Sulaiman Kagumire's GitHub stats](https://github-readme-stats.vercel.app/api?username=sulaiman-kagumire&count_private=true&show_icons=true&theme=vision-friendly-dark)](https://github.com/sulaiman-kagumire)
 
 ### Connect With Me
@@ -62,9 +56,3 @@ I am a final-year MS Computer Science student at Makerere University, Kampala Ug
 |📞 *+256 787909042*|
 |✉️ *sulaiman.kagumire@gmail.com \| kagumire1840@gmail.com*|
  <a href="https://www.linkedin.com/in/sulaiman-kagumire-3b2a97135/"><img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="32px" height="32px"></a> &nbsp; &nbsp; <a href="https://github.com/sulaiman-kagumire"><img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="32px" height="32px"></a>  |
-
-
-
-
-
-
