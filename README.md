@@ -1,7 +1,7 @@
-### Yes! Hello there, Sulaiman Kagumire here👋
+### Hello there, I am Sulaiman Kagumire👋
 *sulaiman.kagumire@gmail.com*
 
-I am a final-year MS Computer Science student at Makerere University, Kampala Uganda, with a strong interest in using data science and machine learning to tackle real-world problems and drive positive change. Currently working as a Machine Learning Researcher, I am passionate about leveraging my skills to make a meaningful impact.
+I am a MS Computer Science student at Makerere University, Kampala Uganda, with a strong interest in Artificial Intelligence (AI), Deep Learning, Generative Models, speech synthesis, Speech Recognition, Machine Translation. Currently working as an AI Researcher at Makerere University, Uganda, I am passionate about leveraging my skills to make a meaningful impact to the field of Natural Language Processing for African Languages.
 
 ## 💼 Languages, Tools and skills
 
