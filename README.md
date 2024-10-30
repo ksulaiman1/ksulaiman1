@@ -1,7 +1,7 @@
 ### Hello there, I am Sulaiman Kagumire👋
 *sulaiman.kagumire@gmail.com*
 
-I am a MS Computer Science student at Makerere University, Kampala Uganda, with a strong interest in Artificial Intelligence (AI), Deep Learning, Generative Models, speech synthesis, Speech Recognition, Machine Translation. Currently working as an AI Researcher at Makerere University, Uganda, I am passionate about leveraging my skills to make a meaningful impact to the field of Natural Language Processing for African Languages.
+I am strongly interested in Generative Models, speech synthesis, Speech Recognition, Machine Translation. Currently working as an AI Researcher at the Marconi Lab, Makerere University.
 
 ## 💼 Languages, Tools and skills
 
